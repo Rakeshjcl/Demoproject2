@@ -1,0 +1,5 @@
+In our demo repository, we modify and add some content to the reset_lifecycle_file.
+Invoking git status shows that Git is aware of the changes to the file.
+These changes are currently a part of the first tree, "The Working Directory". 
+Git status can be used to show changes to the Working Directory. 
+They will be displayed in the red with a 'modified' prefix.
