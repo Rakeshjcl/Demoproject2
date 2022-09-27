@@ -1,0 +1,3 @@
+Any public Git repository can be forked or cloned.
+A fork creates a completely independent copy of Git repository. 
+In contrast to a fork, a Git clone creates a linked copy that will continue to synchronize with the target repository.
